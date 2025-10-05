@@ -32,6 +32,11 @@
             Console.WriteLine("Adquira o plano Plus+");
         }
     }
+
+    public void NomeArtista()
+    {
+        Console.WriteLine($"A música {Nome} pertence ao artista {Artista}");
+    }
 }
 
 class Soma

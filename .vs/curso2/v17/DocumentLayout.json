@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|c:\\users\\raulv\\downloads\\unity\\trilha1\\curso2\\curso2\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\podcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|c:\\users\\raulv\\downloads\\unity\\trilha1\\curso2\\curso2\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|c:\\users\\raulv\\downloads\\unity\\trilha1\\curso2\\curso2\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\episodio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|c:\\users\\raulv\\downloads\\unity\\trilha1\\curso2\\curso2\\conta\\estoqueprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\conta\\estoqueprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|c:\\users\\raulv\\downloads\\unity\\trilha1\\curso2\\curso2\\conta\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\conta\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|c:\\users\\raulv\\downloads\\unity\\trilha1\\curso2\\curso2\\conta\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\conta\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|c:\\users\\raulv\\downloads\\unity\\trilha1\\curso2\\curso2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04D9D-CBA5-4BBE-A5C3-172851576670}|curso2\\curso2.csproj|solutionrelative:curso2\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Genero.cs",
+              "RelativeDocumentMoniker": "curso2\\Genero.cs",
+              "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Genero.cs",
+              "RelativeToolTip": "curso2\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:29:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstoqueProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Conta\\EstoqueProdutos.cs",
+              "RelativeDocumentMoniker": "curso2\\Conta\\EstoqueProdutos.cs",
+              "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Conta\\EstoqueProdutos.cs",
+              "RelativeToolTip": "curso2\\Conta\\EstoqueProdutos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:14:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Titular.cs",
+              "DocumentMoniker": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Conta\\Titular.cs",
+              "RelativeDocumentMoniker": "curso2\\Conta\\Titular.cs",
+              "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Conta\\Titular.cs",
+              "RelativeToolTip": "curso2\\Conta\\Titular.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:57:13.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Conta\\Conta.cs",
+              "RelativeDocumentMoniker": "curso2\\Conta\\Conta.cs",
+              "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Conta\\Conta.cs",
+              "RelativeToolTip": "curso2\\Conta\\Conta.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAzwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:55:46.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Produto.cs",
+              "RelativeDocumentMoniker": "curso2\\Produto.cs",
+              "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Produto.cs",
+              "RelativeToolTip": "curso2\\Produto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:13:18.468Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,35 +109,9 @@
               "RelativeDocumentMoniker": "curso2\\Program.cs",
               "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Program.cs",
               "RelativeToolTip": "curso2\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwCkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-03T12:05:15.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Podcast.cs",
-              "DocumentMoniker": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Podcast.cs",
-              "RelativeDocumentMoniker": "curso2\\Podcast.cs",
-              "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Podcast.cs",
-              "RelativeToolTip": "curso2\\Podcast.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T13:04:36.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Episodio.cs",
-              "DocumentMoniker": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Episodio.cs",
-              "RelativeDocumentMoniker": "curso2\\Episodio.cs",
-              "ToolTip": "C:\\Users\\raulv\\Downloads\\unity\\trilha1\\curso2\\curso2\\Episodio.cs",
-              "RelativeToolTip": "curso2\\Episodio.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T12:29:12.97Z",
               "EditorCaption": ""
             }
           ]
